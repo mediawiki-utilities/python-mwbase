@@ -1,0 +1,1535 @@
+{
+  "entities": {
+    "P21": {
+      "id": "P21",
+      "lastrevid": 465940225,
+      "pageid": 3917971,
+      "labels": {
+        "id": {
+          "language": "id",
+          "value": "jenis kelamin"
+        },
+        "ia": {
+          "language": "ia",
+          "value": "sexo"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u6027\u5225"
+        },
+        "zh-tw": {
+          "language": "zh-tw",
+          "value": "\u6027\u5225"
+        },
+        "sq": {
+          "language": "sq",
+          "value": "gjinia"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "gi\u1edbi t\u00ednh"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "nem"
+        },
+        "is": {
+          "language": "is",
+          "value": "kyn"
+        },
+        "nds-nl": {
+          "language": "nds-nl",
+          "value": "geslacht"
+        },
+        "hy": {
+          "language": "hy",
+          "value": "\u057d\u0565\u057c"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "p\u0142e\u0107"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "pohlav\u00ed"
+        },
+        "kk": {
+          "language": "kk",
+          "value": "\u0436\u044b\u043d\u044b\u0441"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "sekso"
+        },
+        "bg": {
+          "language": "bg",
+          "value": "\u043f\u043e\u043b"
+        },
+        "et": {
+          "language": "et",
+          "value": "sugu"
+        },
+        "zh-mo": {
+          "language": "zh-mo",
+          "value": "\u6027\u5225"
+        },
+        "gsw": {
+          "language": "gsw",
+          "value": "Gschl\u00e4cht"
+        },
+        "as": {
+          "language": "as",
+          "value": "\u09b2\u09bf\u0999\u09cd\u0997"
+        },
+        "nds": {
+          "language": "nds",
+          "value": "Geslecht (Person)"
+        },
+        "vo": {
+          "language": "vo",
+          "value": "gen"
+        },
+        "en": {
+          "language": "en",
+          "value": "sex or gender"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "sekse of geslacht"
+        },
+        "scn": {
+          "language": "scn",
+          "value": "sessu o g\u00e8niri"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "pohlavie"
+        },
+        "ga": {
+          "language": "ga",
+          "value": "gn\u00e9is n\u00f3 inscne"
+        },
+        "tl": {
+          "language": "tl",
+          "value": "kasarian"
+        },
+        "bn": {
+          "language": "bn",
+          "value": "\u09b2\u09bf\u0999\u09cd\u0997"
+        },
+        "el": {
+          "language": "el",
+          "value": "\u03c6\u03cd\u03bb\u03bf"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u6027\u5225"
+        },
+        "bs": {
+          "language": "bs",
+          "value": "spol"
+        },
+        "ku-latn": {
+          "language": "ku-latn",
+          "value": "zayend"
+        },
+        "mai": {
+          "language": "mai",
+          "value": "\u0932\u093f\u0919\u094d\u0917"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "dzimums"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "sexu"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "sexo"
+        },
+        "mg": {
+          "language": "mg",
+          "value": "lahy-vavy"
+        },
+        "hr": {
+          "language": "hr",
+          "value": "spol"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "\u043f\u043e\u043b"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0627\u0644\u062c\u0646\u0633"
+        },
+        "mr": {
+          "language": "mr",
+          "value": "\u0932\u093f\u0902\u0917"
+        },
+        "ht": {
+          "language": "ht",
+          "value": "s\u00e8ks"
+        },
+        "te": {
+          "language": "te",
+          "value": "\u0c32\u0c3f\u0c02\u0c17\u0c02"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "sexo"
+        },
+        "an": {
+          "language": "an",
+          "value": "sexo"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "sexo ou g\u00e9nero"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u043f\u043e\u043b"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "sex or gender"
+        },
+        "sr-ec": {
+          "language": "sr-ec",
+          "value": "\u043f\u043e\u043b"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "spol"
+        },
+        "cy": {
+          "language": "cy",
+          "value": "rhyw"
+        },
+        "tg": {
+          "language": "tg",
+          "value": "\u04b7\u0438\u043d\u0441"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "kj\u00f8nn"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "sexe"
+        },
+        "en-ca": {
+          "language": "en-ca",
+          "value": "sex"
+        },
+        "lb": {
+          "language": "lb",
+          "value": "Geschlecht"
+        },
+        "sr-el": {
+          "language": "sr-el",
+          "value": "pol"
+        },
+        "ksh": {
+          "language": "ksh",
+          "value": "et Jeschl\u00e4\u00e4sch"
+        },
+        "de": {
+          "language": "de",
+          "value": "Geschlecht"
+        },
+        "yi": {
+          "language": "yi",
+          "value": "\u05de\u05d9\u05df"
+        },
+        "th": {
+          "language": "th",
+          "value": "\u0e40\u0e1e\u0e28"
+        },
+        "da": {
+          "language": "da",
+          "value": "k\u00f8n"
+        },
+        "it": {
+          "language": "it",
+          "value": "sesso o genere"
+        },
+        "hi": {
+          "language": "hi",
+          "value": "\u0932\u093f\u0902\u0917"
+        },
+        "io": {
+          "language": "io",
+          "value": "sexuo"
+        },
+        "ka": {
+          "language": "ka",
+          "value": "\u10e1\u10e5\u10d4\u10e1\u10d8"
+        },
+        "es": {
+          "language": "es",
+          "value": "sexo o g\u00e9nero"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u0441\u0442\u0430\u0442\u044c"
+        },
+        "lt": {
+          "language": "lt",
+          "value": "lytis"
+        },
+        "be": {
+          "language": "be",
+          "value": "\u043f\u043e\u043b"
+        },
+        "ta": {
+          "language": "ta",
+          "value": "\u0baa\u0bbe\u0bb2\u0bbf\u0ba9\u0bae\u0bcd"
+        },
+        "rm": {
+          "language": "rm",
+          "value": "schlattaina"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05de\u05d9\u05df"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u6027\u522b"
+        },
+        "or": {
+          "language": "or",
+          "value": "\u0b32\u0b3f\u0b19\u0b4d\u0b17"
+        },
+        "ckb": {
+          "language": "ckb",
+          "value": "\u0695\u06d5\u06af\u06d5\u0632"
+        },
+        "zh-hk": {
+          "language": "zh-hk",
+          "value": "\u6027\u5225"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "kj\u00f8nn"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\uc131\ubcc4"
+        },
+        "tokipona": {
+          "language": "tokipona",
+          "value": "meli anu mije"
+        },
+        "ml": {
+          "language": "ml",
+          "value": "\u0d32\u0d3f\u0d02\u0d17\u0d02"
+        },
+        "ba": {
+          "language": "ba",
+          "value": "\u0435\u043d\u0435\u0441\u0435"
+        },
+        "uz": {
+          "language": "uz",
+          "value": "jinsi"
+        },
+        "kn": {
+          "language": "kn",
+          "value": "\u0cb2\u0cbf\u0c82\u0c97"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "\u043f\u043e\u043b"
+        },
+        "af": {
+          "language": "af",
+          "value": "geslag"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "sexua edo generoa"
+        },
+        "zh-sg": {
+          "language": "zh-sg",
+          "value": "\u6027\u5225"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "k\u00f6n"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "cinsiyet"
+        },
+        "ms": {
+          "language": "ms",
+          "value": "jantina"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u062c\u0646\u0633\u06cc\u062a"
+        },
+        "fo": {
+          "language": "fo",
+          "value": "kyn"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "sex"
+        },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "\u6027\u5225"
+        },
+        "min": {
+          "language": "min",
+          "value": "jinih kalamin"
+        },
+        "gu": {
+          "language": "gu",
+          "value": "\u0ab2\u0abf\u0a82\u0a97 \u0a85\u0aa5\u0ab5\u0abe \u0a9c\u0abe\u0aa4\u0abf"
+        },
+        "ilo": {
+          "language": "ilo",
+          "value": "sekso"
+        },
+        "oc": {
+          "language": "oc",
+          "value": "s\u00e8xe"
+        },
+        "mzn": {
+          "language": "mzn",
+          "value": "\u062c\u0646\u0633\u06cc\u062a"
+        },
+        "ne": {
+          "language": "ne",
+          "value": "\u0932\u093f\u0919\u094d\u0917"
+        },
+        "frr": {
+          "language": "frr",
+          "value": "Slach"
+        },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "\u6027\u522b"
+        },
+        "yue": {
+          "language": "yue",
+          "value": "\u6027\u5225"
+        },
+        "fy": {
+          "language": "fy",
+          "value": "sekse of geslacht"
+        },
+        "pa": {
+          "language": "pa",
+          "value": "\u0a32\u0a3f\u0a70\u0a17"
+        },
+        "se": {
+          "language": "se",
+          "value": "soahkabealli"
+        },
+        "be-tarask": {
+          "language": "be-tarask",
+          "value": "\u0441\u0442\u0430\u0446\u044c"
+        },
+        "zh-my": {
+          "language": "zh-my",
+          "value": "\u6027\u5225"
+        },
+        "la": {
+          "language": "la",
+          "value": "sexus"
+        },
+        "ce": {
+          "language": "ce",
+          "value": "\u0441\u0442\u0435\u043d-\u0431\u043e\u044c\u0440\u0448\u0430\u043b\u043b\u0430"
+        },
+        "br": {
+          "language": "br",
+          "value": "Reizh pe jener"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "sukupuoli"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "sexe ou genre"
+        },
+        "sco": {
+          "language": "sco",
+          "value": "sex"
+        }
+      },
+      "claims": {
+        "P1628": [
+          {
+            "id": "P21$7c8e982d-4808-df0d-5546-5e72996025ec",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "url",
+              "property": "P1628",
+              "datavalue": {
+                "type": "string",
+                "value": "http://xmlns.com/foaf/0.1/gender"
+              }
+            },
+            "type": "statement",
+            "references": [
+              {
+                "hash": "b062f440052a67f7d39ed2b2696adacdc3222cde",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "datatype": "url",
+                      "property": "P854",
+                      "datavalue": {
+                        "type": "string",
+                        "value": "http://xmlns.com/foaf/spec/#term_gender"
+                      }
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "P21$f7a7b433-413d-3426-e001-d0a0c307cc0c",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "url",
+              "property": "P1628",
+              "datavalue": {
+                "type": "string",
+                "value": "http://schema.org/gender"
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$57c95f13-4d38-50b2-6a94-acdba4dc963c",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "url",
+              "property": "P1628",
+              "datavalue": {
+                "type": "string",
+                "value": "http://www.w3.org/2006/vcard/ns#Gender"
+              }
+            },
+            "type": "statement"
+          }
+        ],
+        "P2875": [
+          {
+            "id": "P21$2E08D042-5A6B-4F93-8964-E83BD79955B0",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P2875",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q28039789",
+                  "numeric-id": 28039789,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "type": "statement"
+          }
+        ],
+        "P31": [
+          {
+            "id": "P21$02554711-4985-a9cf-f90e-72c5ac8b7e2b",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P31",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q18608871",
+                  "numeric-id": 18608871,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$5d732363-4dd2-3080-08b9-a50b859d6831",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P31",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q26935994",
+                  "numeric-id": 26935994,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "type": "statement"
+          }
+        ],
+        "P1855": [
+          {
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P1855",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q1395624",
+                  "numeric-id": 1395624,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "id": "P21$627e6a1d-4613-2e07-9d1c-93e73ae8efe7",
+            "qualifiers": {
+              "P21": [
+                {
+                  "hash": "6d515fccecdf3d700ff3fb11caeeb2174abbe7a7",
+                  "snaktype": "value",
+                  "datatype": "wikibase-item",
+                  "property": "P21",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "id": "Q6581072",
+                      "numeric-id": 6581072,
+                      "entity-type": "item"
+                    }
+                  }
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P21"
+            ],
+            "type": "statement"
+          },
+          {
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P1855",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q2988585",
+                  "numeric-id": 2988585,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "id": "P21$3292130e-4d71-33bb-9f6f-0d5fd49ef3fa",
+            "qualifiers": {
+              "P21": [
+                {
+                  "hash": "72d87763a9248236a454eb81a18462f935c9d6ba",
+                  "snaktype": "value",
+                  "datatype": "wikibase-item",
+                  "property": "P21",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "id": "Q44148",
+                      "numeric-id": 44148,
+                      "entity-type": "item"
+                    }
+                  }
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P21"
+            ],
+            "type": "statement"
+          }
+        ],
+        "P3713": [
+          {
+            "id": "P21$a4ac9c28-4e9e-09f0-0194-73c834dcd8bc",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P3713",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q23823801",
+                  "numeric-id": 23823801,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$6e684614-475e-20d3-d099-a3782da3cf99",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P3713",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q23823797",
+                  "numeric-id": 23823797,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$97733913-374C-4C8B-B6AD-E16BC2B20057",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P3713",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q26220006",
+                  "numeric-id": 26220006,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "type": "statement"
+          }
+        ],
+        "P1629": [
+          {
+            "id": "P21$fc1f2e5e-4e9e-9497-6f6f-2b7d446fc32f",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P1629",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q290",
+                  "numeric-id": 290,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$acfbd48b-4417-05b1-f4b8-162418b69a99",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "wikibase-item",
+              "property": "P1629",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "id": "Q48277",
+                  "numeric-id": 48277,
+                  "entity-type": "item"
+                }
+              }
+            },
+            "type": "statement"
+          }
+        ],
+        "P2559": [
+          {
+            "id": "P21$37e93ee7-4a97-2045-2176-ed948b9f84dc",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "monolingualtext",
+              "property": "P2559",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "Main: male (Q6581097), female (Q6581072), intersex (Q1097630), transgender female (Q1052281), transgender male (Q2449503). Animals: male animal (Q44148), female animal (Q43445). Groups of same gender use \"subclass of\" (P279)"
+                }
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$af8d7429-40cb-7543-c44d-f5bd40cebb4c",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "monolingualtext",
+              "property": "P2559",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "ru",
+                  "text": "\u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u043e\u0434\u043d\u0438\u043c \u0438\u0437: \u043c\u0443\u0436\u0441\u043a\u043e\u0439 (Q6581097), \u0436\u0435\u043d\u0441\u043a\u0438\u0439 (Q6581072), \u0438\u043d\u0442\u0435\u0440\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c (Q1097630) (\u043f\u043e\u043b\u043d\u044b\u0439 \u0441\u043f\u0438\u0441\u043e\u043a \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u044f)"
+                }
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$a7aefe8b-4817-3c57-2096-89e0900562dd",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "monolingualtext",
+              "property": "P2559",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "uk",
+                  "text": "\u043f\u043e\u0432\u0438\u043d\u043d\u0430 \u0431\u0443\u0442\u0438: \u0447\u043e\u043b\u043e\u0432\u0456\u0447\u0430 (Q6581097), \u0436\u0456\u043d\u043e\u0447\u0430 (Q6581072) \u0447\u0438 \u0456\u043d\u0442\u0435\u0440\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u0456\u0441\u0442\u044c (Q1097630)"
+                }
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$e2a72b32-413c-a6f0-31ec-9c9ff77773d2",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "monolingualtext",
+              "property": "P2559",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "nl",
+                  "text": "mensen: mannelijk (Q6581097), vrouwelijk (Q6581072), interseksueel (Q1097630), transvrouw (Q1052281), transman (Q2449503), genderqueer (Q48270); dieren: mannelijk (Q44148) of vrouwelijk (Q43445)"
+                }
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$d5ca7428-46ea-c600-c2e3-23b3425d520d",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "monolingualtext",
+              "property": "P2559",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "ko",
+                  "text": "\uc0ac\ub78c\uc744 \ub2e4\ub8e8\ub294 \ud56d\ubaa9\uc5d0 \uc4f8 \ub54c\ub294 \ub0a8\uc131(Q6581097), \uc5ec\uc131(Q6581072), \uac04\uc131(Q1097630), \ud2b8\ub79c\uc2a4\ub0a8\uc131(Q2449503), \ud2b8\ub79c\uc2a4\uc5ec\uc131(Q1052281) \uc911\uc5d0\uc11c \ud558\ub098\ub97c, \uae30\ud0c0 \uc0dd\ubb3c\uc744 \ub2e4\ub8e8\ub294 \ud56d\ubaa9\uc5d0 \uc4f8 \ub54c\ub294 \uc218\ucef7(Q44148), \uc554\ucef7(Q43445) \uc911 \ud558\ub098\ub97c \uc0ac\uc6a9\ud558\uc138\uc694."
+                }
+              }
+            },
+            "type": "statement"
+          },
+          {
+            "id": "P21$380dbc83-4bbd-5315-b567-08e0be96cb43",
+            "rank": "normal",
+            "mainsnak": {
+              "snaktype": "value",
+              "datatype": "monolingualtext",
+              "property": "P2559",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "da",
+                  "text": "mennesker: mand (Q6581097), kvinde (Q6581072), interseksuel (Q1097630), transkvinde (Q1052281), transmand (Q2449503), genderqueer (Q48270); dyr: handyr (Q44148) eller hundyr (Q43445); Grupper af samme k\u00f8n, brug \"underklasse til\" (P279)"
+                }
+              }
+            },
+            "type": "statement"
+          }
+        ]
+      },
+      "modified": "2017-03-13T19:08:52Z",
+      "ns": 120,
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "bitte nur verwenden: m\u00e4nnlich (Q6581097), weiblich (Q6581072), Intersexualit\u00e4t (Q1097630), Transfrau (Q1052281), Transmann (Q2449503) oder Genderqueer (Q48270); f\u00fcr Tiere m\u00e4nnliches Tier (Q44148) oder weibliches Tier (Q43445)"
+        },
+        "id": {
+          "language": "id",
+          "value": "untuk manusia, harus salah satu dari: laki-laki (Q6581097), wanita (Q6581072) atau interseks (Q1097630); untuk spesies lain: jantan  (Q44148) atau betina (Q43445)"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u5e94\u7531\u4e0b\u9762\u62e9\u4e00\uff1a\u4eba\uff1a\u7537\u6027\uff08Q6581097\uff09\u3001\u5973\u6027\uff08Q6581072\uff09\u3001\u53cc\u6027\u4eba\uff08Q1097630\uff09\uff1b\u52a8\u7269\uff1a\u96c4\u6027\uff08Q44148\uff09\u3001\u6216\u96cc\u6027\uff08Q43445\uff09"
+        },
+        "da": {
+          "language": "da",
+          "value": "for mennesker: mand (Q6581097), kvinde (Q6581072), eller intersexuel (Q1097630) for andre arter: han (Q44148) eller hun (Q43445)"
+        },
+        "zh-tw": {
+          "language": "zh-tw",
+          "value": "\u61c9\u7531\u4e0b\u9762\u64c7\u4e00\uff1a\u4eba: \u7537\u6027 (Q6581097\uff09\u3001\u5973\u6027\uff08Q6581072\uff09\u3001\u6216\u96d9\u6027\u4eba\uff08Q1097630); \u52d5\u7269: \u96c4\u6027\uff08Q44148\uff09\u3001\u6216\u96cc\u6027\uff08Q43445\uff09"
+        },
+        "it": {
+          "language": "it",
+          "value": "per le persone deve essere: maschio (Q6581097), femmina (Q6581072), o intersessuato (Q1097630) per gli animali: maschio (Q44148), femmina (Q43445)"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "insanlar i\u00e7in, erkek (Q6581097), kad\u0131n (Q6581072), erdi\u015fi (Q1097630) veya \u00f6zel \"bilinmeyen\" de\u011ferden biri olmal\u0131"
+        },
+        "sq": {
+          "language": "sq",
+          "value": "Identiteti gjinor: mashkull (Q6581097), fem\u00ebr (Q6581072), nd\u00ebrgjinor\u00eb (Q1097630), transeksuale fem\u00ebr (Q1052281),  transeksual mashkull (Q2449503). Kafsh\u00ebt: kafsh\u00eb mashkull (Q44148), kafsh\u00eb fem\u00ebr (Q43445). Grupe t\u00eb gjinis\u00eb s\u00eb nj\u00ebjt\u00eb p\u00ebrdorin (P279)"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u4eba\u9593\u306b\u5bfe\u3057\u3066\u306f\u6b21\u306e\u5185\u306e\u4e00\u3064: \u7537\u6027 (Q6581097)\u3001\u5973\u6027 (Q6581072)\u3001\u534a\u9670\u967d (Q1097630); \u4ed6\u306e\u751f\u7269\u306b\u5bfe\u3057\u3066\u306f: \u30aa\u30b9 (Q44148) \u307e\u305f\u306f\u30e1\u30b9 (Q43445)"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u043f\u043e\u0432\u0438\u043d\u043d\u0430 \u0431\u0443\u0442\u0438: \u0447\u043e\u043b\u043e\u0432\u0456\u0447\u0430 (Q6581097), \u0436\u0456\u043d\u043e\u0447\u0430 (Q6581072) \u0447\u0438 \u0456\u043d\u0442\u0435\u0440\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u0456\u0441\u0442\u044c (Q1097630)"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "\u0111\u1ecbnh danh gi\u1edbi t\u00ednh c\u1ee7a ch\u1ee7 th\u1ec3: nam(Q6581097), n\u1eef(Q6581072), l\u01b0\u1ee1ng gi\u1edbi(Q1097630), chuy\u1ec3n gi\u1edbi n\u1eef(Q1052281), chuy\u1ec3n gi\u1edbi nam(Q2449503). V\u1edbi \u0111\u1ed9ng v\u1eadt: \u0111\u1ef1c/tr\u1ed1ng(Q44148), c\u00e1i/m\u00e1i(Q43445). V\u1edbi nh\u00f3m c\u00e1c ch\u1ee7 th\u1ec3 c\u00f9ng gi\u1edbi t\u00ednh, d\u00f9ng \"ph\u00e2n l\u1edbp c\u1ee7a\"(P279)"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "nemi identit\u00e1s, emberekn\u00e9l a f\u00e9rfi (Q6581097), n\u0151 (Q6581072), interszexu\u00e1lis (Q1097630), transznem\u0171 n\u0151 (Q1052281), transznem\u0171 f\u00e9rfi (Q2449503) vagy genderqueer (Q48270) elem haszn\u00e1land\u00f3, m\u00edg egy\u00e9b \u00e1llatokn\u00e1l a h\u00edm (Q44148) \u00e9s n\u0151st\u00e9ny (Q43445)"
+        },
+        "is": {
+          "language": "is",
+          "value": "Kyn vi\u00f0fangs"
+        },
+        "rm": {
+          "language": "rm",
+          "value": "masculin = Q6581097, feminin = Q6581072"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05d7\u05d9\u05d9\u05d1 \u05dc\u05d4\u05d9\u05d5\u05ea \u05d0\u05d7\u05d3 \u05de: \u05d6\u05db\u05e8 (Q6581097), \u05e0\u05e7\u05d1\u05d4 (Q6581072), \u05d0\u05d9\u05e0\u05d8\u05e8\u05e1\u05e7\u05e1 (Q1097630), \u05d0\u05d9\u05e9\u05d4 \u05d8\u05e8\u05e0\u05e1\u05d2'\u05e0\u05d3\u05e8\u05d9\u05ea (Q1052281), \u05d2\u05d1\u05e8 \u05d8\u05e8\u05e0\u05e1\u05d2'\u05e0\u05d3\u05e8 (Q2449503), \u05d2'\u05e0\u05d3\u05e8\u05e7\u05d5\u05d5\u05d9\u05e8 (Q48270)"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u4ee5\u4e0b\u4e4b\u4e00\uff1a\u4eba\uff1a\u7537\u6027\uff08Q6581097\uff09\u3001\u5973\u6027\uff08Q6581072\uff09\u3001\u53cc\u6027\u4eba\uff08Q1097630\uff09\u3001\u5973\u8de8\u6027\u522b\u8005\uff08Q1052281\uff09\u3001\u7537\u8de8\u6027\u522b\u8005\uff08Q2449503\uff09\u6216\u6027\u522b\u9177\u513f\uff08Q48270\uff09\uff1b\u52a8\u7269\uff1a\u96c4\u6027\uff08Q44148\uff09\u6216\u96cc\u6027\uff08Q43445\uff09\uff0c\u5e76\u52a0\u5165\u9002\u5f53\u7684\u9650\u5b9a\u7b26"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "dla ludzi nale\u017cy wybra\u0107: m\u0119\u017cczyzna (Q6581097), kobieta (Q6581072) albo obojnactwo (Q1097630); dla innych gatunk\u00f3w: samiec (Q44148) albo samica (Q43445)"
+        },
+        "nds": {
+          "language": "nds",
+          "value": "schall een von disse wesen: Mann (Q6581097), Fro (Q6581072) oder intersexuell (Q1097630)"
+        },
+        "kk": {
+          "language": "kk",
+          "value": "\u0415\u0440 \u0436\u044b\u043d\u044b\u0441\u0442\u044b (Q6581097), \u04d9\u0439\u0435\u043b \u0436\u044b\u043d\u044b\u0441\u0442\u044b (Q6581072) \u043d\u0435\u043c\u0435\u0441\u0435 \u0438\u043d\u0442\u0435\u0440\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u0434\u044b (Q1097630) \u0431\u043e\u043b\u0443\u044b \u043a\u0435\u0440\u0435\u043a"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "por homoj elektu viro (Q6581097), virino (Q6581072) a\u016d intersekseco (Q1097630); por aliaj specioj vira sekso (Q44148) a\u016d virina sekso (Q43445)"
+        },
+        "bg": {
+          "language": "bg",
+          "value": "\u0437\u0430 \u0445\u043e\u0440\u0430, \u043c\u043e\u0436\u0435 \u0434\u0430 \u0431\u044a\u0434\u0435 \u043c\u044a\u0436\u043a\u0438 (Q6581097), \u0436\u0435\u043d\u0441\u043a\u0438 (Q6581072), intersex (Q1097630) \u0438\u043b\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u043d\u0430\u0442\u0430 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 \"unknown\""
+        },
+        "zh-hk": {
+          "language": "zh-hk",
+          "value": "\u61c9\u7531\u4e0b\u9762\u64c7\u4e00\uff1a\u4eba: \u7537\u6027 (Q6581097\uff09\u3001\u5973\u6027\uff08Q6581072\uff09\u3001\u6216\u96d9\u6027\u4eba\uff08Q1097630) \uff1b\u52d5\u7269: \u96c4\u6027\uff08Q44148\uff09\u3001\u6216\u96cc\u6027\uff08Q43445\uff09"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "for mennesker: mann (Q6581097), kvinne (Q6581072), eller interseksuell (Q1097630) for andre arter: han (Q44148) eller hun (Q43445)"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\ud56d\ubaa9 \uc8fc\uc81c\uc758 \uc131\ubcc4"
+        },
+        "or": {
+          "language": "or",
+          "value": "\u0b2c\u0b3f\u0b37\u0b5f\u0b30 \u0b32\u0b3f\u0b19\u0b4d\u0b17: \u0b2a\u0b41\u0b30\u0b41\u0b37 (Q6581097), \u0b2e\u0b39\u0b3f\u0b33\u0b3e (Q6581072), \u0b39\u0b3f\u0b1e\u0b4d\u0b1c\u0b21\u0b3c\u0b3e \u0b2a\u0b41\u0b30\u0b41\u0b37 (Q1052281), \u0b1c\u0b3f\u0b1e\u0b4d\u0b1c\u0b21\u0b3c\u0b3e \u0b2e\u0b39\u0b3f\u0b33\u0b3e (Q2449503). \u0b2a\u0b36\u0b41\u0b2e\u0b3e\u0b28\u0b19\u0b4d\u0b15 \u0b2a\u0b3e\u0b07\u0b01, \u0b2a\u0b41\u0b30\u0b41\u0b37 \u0b2a\u0b36\u0b41 (Q44148), \u0b2e\u0b3e\u0b08 \u0b2a\u0b36\u0b41 (Q43445) \u0964 \u0b0f\u0b15\u0b3e \u0b32\u0b3f\u0b19\u0b4d\u0b17\u0b30 \u0b2c\u0b30\u0b4d\u0b17 \u0b28\u0b3f\u0b2e\u0b28\u0b4d\u0b24\u0b47 \"\u0b09\u0b2a\u0b36\u0b4d\u0b30\u0b47\u0b23\u0b40\" \u0b2c\u0b4d\u0b5f\u0b2c\u0b39\u0b3e\u0b30 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 (P279)"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "pohlavn\u00ed identita subjektu; u lid\u00ed pou\u017eijte mu\u017e (Q6581097), \u017eena (Q6581072), trans-mu\u017e (Q2449503), trans-\u017eena (Q1052281); u zv\u00ed\u0159at pou\u017eijte samec (Q44148), samice (Q43445); u skupin stejn\u00e9ho pohlav\u00ed pou\u017eijte \u201epodt\u0159\u00edda (\u010deho)\u201c (P279)"
+        },
+        "en": {
+          "language": "en",
+          "value": "sexual identity of subject: male (Q6581097), female (Q6581072), intersex (Q1097630), transgender female (Q1052281), transgender male (Q2449503). Animals: male animal (Q44148), female animal (Q43445). Groups of same gender use \"subclass of\" (P279)"
+        },
+        "ml": {
+          "language": "ml",
+          "value": "\u0d06\u0d23\u0d4b \u0d2a\u0d46\u0d23\u0d4d\u0d23\u0d4b \u0d05\u0d24\u0d4b \u0d30\u0d23\u0d4d\u0d1f\u0d41\u0d2e\u0d32\u0d4d\u0d32\u0d3e\u0d24\u0d4d\u0d24\u0d24\u0d4b"
+        },
+        "ba": {
+          "language": "ba",
+          "value": "\u0438\u0440-\u0435\u0433\u0435\u0442 \u0435\u043d\u0435\u0441\u0435 (Q6581097), \u04a1\u0430\u0442\u044b\u043d-\u04a1\u044b\u0499 \u0435\u043d\u0435\u0441\u0435 (Q6581072), \u0438\u043d\u0442\u0435\u0440\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c (Q1097630) (\u0442\u0443\u043b\u044b \u0438\u0441\u0435\u043c\u043b\u0435\u043a \u0444\u0435\u043a\u0435\u0440\u043b\u04d9\u0448\u0435\u04af \u0431\u0438\u0442\u0435\u043d\u0434\u04d9)"
+        },
+        "hr": {
+          "language": "hr",
+          "value": "mora biti jedno od: mu\u0161ki (Q6581097), \u017eenski (Q6581072), ili interseksualan (Q1097630)"
+        },
+        "scn": {
+          "language": "scn",
+          "value": "m\u00e0sculu (Q6581097), f\u00ecmmina (Q6581072), intersessuatu (Q1097630), transessuali f\u00ecmmina (Q1052281), transessuali m\u00e0sculu (Q2449503), genderqueer (Q48270); pi l'armali armali m\u00e0sculu (Q44148) o armali f\u00ecmmina (Q43445). Qualificari quannu giuva."
+        },
+        "eu": {
+          "language": "eu",
+          "value": "gizakientzako: gizonezkoa (Q6581097), emakumezkoa (Q6581097) edo intersexuala (Q1097630). Beste espezieetan: arra (Q44148) edo emea (Q43445)"
+        },
+        "tl": {
+          "language": "tl",
+          "value": "kasarian ng tao: lalake (Q6581097), babae (Q6581072), intersex (Q1097630)"
+        },
+        "el": {
+          "language": "el",
+          "value": "\u03b3\u03b9\u03b1 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1 \u03b1\u03c0\u03cc: \u03ac\u03bd\u03b4\u03c1\u03b1\u03c2 (Q6581097), \u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b1 (Q6581072), \u03ae \u03b4\u03b9\u03b1\u03c6\u03c5\u03bb\u03b9\u03ba\u03cc (Q1097630)"
+        },
+        "hi": {
+          "language": "hi",
+          "value": "\u092a\u0941\u0930\u0941\u0937 (Q6581097), \u092e\u0939\u093f\u0932\u093e (Q6581072) \u092f\u093e \u092e\u0927\u094d\u092f\u0932\u093f\u0902\u0917\u0924\u093e (Q1097630) \u092e\u0947\u0902 \u0939\u0940 \u090f\u0915 \u0939\u094b\u0928\u093e \u091a\u093e\u0939\u093f\u090f"
+        },
+        "es": {
+          "language": "es",
+          "value": "para humanos: masculino (Q6581097), femenino (Q6581072), intersexual (Q1097630), mujer transg\u00e9nero (Q1052281), hombre transg\u00e9nero (Q2449503); para otras especies: macho (Q44148), hembra (Q43445) o hermafrodita (Q303479)"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u0628\u0627\u06cc\u062f \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u06cc\u0646\u200c\u0647\u0627 \u0628\u0627\u0634\u062f: \u0645\u0630\u06a9\u0631\u060c \u0645\u0624\u0646\u062b\u060c \u06cc\u0627 \u0628\u06cc\u0646\u0627\u062c\u0646\u0633\u06cc\u060c \u0628\u0631\u0627\u06cc \u062c\u0627\u0646\u0648\u0631\u0627\u0646 \u0627\u0632 \u062c\u0627\u0646\u0648\u0631 \u0646\u0631 (Q44148) \u06cc\u0627 \u062c\u0627\u0646\u0648\u0631 \u0645\u0627\u062f\u0647 (Q43445) \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f. \u0627\u0632 \u06af\u0633\u062a\u0631\u0647\u200c\u0646\u0645\u0627\u0647\u0627 \u0628\u0647 \u0637\u0648\u0631 \u0645\u0646\u0627\u0633\u0628 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f."
+        },
+        "nl": {
+          "language": "nl",
+          "value": "mensen: mannelijk (Q6581097), vrouwelijk (Q6581072), interseksueel (Q1097630), transvrouw (Q1052281), transman (Q2449503), genderqueer (Q48270); dieren: mannelijk (Q44148) of vrouwelijk (Q43445)"
+        },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "\u61c9\u7531\u4e0b\u9762\u64c7\u4e00\uff1a\u4eba: \u7537\u6027 (Q6581097\uff09\u3001\u5973\u6027\uff08Q6581072\uff09\u3001\u6216\u96d9\u6027\u4eba\uff08Q1097630); \u52a8\u7269: \u96c4\u6027\uff08Q44148\uff09\u3001\u6216\u96cc\u6027\uff08Q43445\uff09"
+        },
+        "fo": {
+          "language": "fo",
+          "value": "fyri menniskju: ma\u00f0ur (Q6581097), kvinna (Q6581072), ella intersexuel (Q1097630) fyri onnur sl\u00f8g: hann (Q44148) ella hon (Q43445)"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "J\u0100B\u016aT VIENAM NO: v\u012brietis (Q6581097), sieviete (Q6581072) vai starpdzimumu (Q1097630)"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "Identid\u00e1 sexual del  suxetu. Humanos: mascul\u00edn (Q6581097), femen\u00edn (Q6581072), tresx\u00e9neru femen\u00edn (Q1052281),  tresx\u00e9neru mascul\u00edn (Q2449503). Pa animales, machu (Q44148) y fema (Q43445). Pa grupos del  mesmu x\u00e9neru, usa \"subclase de\" (P279)"
+        },
+        "gu": {
+          "language": "gu",
+          "value": "\u0aae\u0abe\u0aa8\u0ab5\u0acb \u0aae\u0abe\u0a9f\u0ac7 \u0aaa\u0ac1\u0ab0\u0ac1\u0ab7 (Q6581097), \u0aae\u0ab9\u0abf\u0ab2\u0abe (Q6581072), \u0a86\u0a82\u0aa4\u0ab0\u0a9c\u0abe\u0aa4\u0abf\u0aaf (Q1097630)\u0aae\u0abe\u0a82\u0aa5\u0ac0 \u0a8f\u0a95 \u0a9c \u0ab9\u0acb\u0ab5\u0ac1\u0a82 \u0a9c\u0acb\u0a88\u0a8f"
+        },
+        "ilo": {
+          "language": "ilo",
+          "value": "Nasken a maysa kadagitoy: lalaki (Q6581097), babai (Q43445), wenno intersekso (Q1097630) wenno di ammo ti sekso (Q7745125)"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "para os seres humanos debe ser: home (Q6581097), muller (Q6581072) ou intersexo (Q1097630); para as outras especies: macho (Q44148) ou femia (Q43445)"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "\u0437\u0430 \u0459\u0443\u0434\u0435, \u0442\u0440\u0435\u0431\u0430\u043b\u043e \u0431\u0438 \u0434\u0430 \u0431\u0443\u0434\u0435 \u0431\u0438\u043b\u043e \u043c\u0443\u0448\u043a\u0438 (Q6581097), \u0436\u0435\u043d\u0441\u043a\u0438 (Q6581072), \u043c\u0435\u0452\u0443\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u043d\u0438 (Q1097630), \u0438\u043b\u0438 \u043f\u043e\u0441\u0435\u0431\u043d\u0430 \u201e\u043d\u0435\u043f\u043e\u0437\u043d\u0430\u0442\u0430\u201c \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442"
+        },
+        "mzn": {
+          "language": "mzn",
+          "value": "\u06cc\u0627 \u0648\u0646\u0647 \u0645\u0631\u062f \u0628\u0648\u0626\u0647 \u06cc\u0627 \u0632\u0646 \u06cc\u0627 \u0627\u06cc\u0646\u06a9\u0647 \u062f\u062c\u0646\u0633\u0647 \u0628\u0648\u0626\u0647"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0627\u0644\u0647\u0648\u064a\u0629 \u0627\u0644\u062c\u0646\u0633\u064a\u0629 \u0644\u0644\u0645\u0648\u0636\u0648\u0639: \u0630\u0643\u0631 (Q6581097)\u060c \u0623\u0646\u062b\u0649 (Q6581072)\u060c \u062e\u0627\u0646\u062b (Q1097630)\u060c \u0623\u0646\u062b\u0649 \u0645\u062a\u062d\u0648\u0644\u0629 \u062c\u0646\u0633\u064a\u0627 (Q1052281)\u060c \u0630\u0643\u0631 \u0645\u062a\u062d\u0648\u0644 \u062c\u0646\u0633\u064a\u0627 (Q2449503). \u0644\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a: \u0630\u0643\u0631 \u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a (Q44148)\u060c \u0623\u0646\u062b\u0649 \u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a (Q43445). \u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u062c\u0646\u0633 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \"\u0646\u0648\u0639 \u0641\u0631\u0639\u064a \u0645\u0646\" (P279)."
+        },
+        "ta": {
+          "language": "ta",
+          "value": "\u0baa\u0bbe\u0bb2\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd"
+        },
+        "ka": {
+          "language": "ka",
+          "value": "\u10e1\u10e3\u10d1\u10d8\u10d4\u10e5\u10e2\u10d8\u10e1 \u10e1\u10e5\u10d4\u10e1\u10dd\u10d1\u10e0\u10d8\u10d5\u10d8 \u10d8\u10d3\u10d4\u10dc\u10e2\u10dd\u10d1\u10d0: \u10db\u10d0\u10db\u10e0\u10dd\u10d1\u10d8\u10d7\u10d8 (Q6581097), \u10db\u10d3\u10d4\u10d3\u10e0\u10dd\u10d1\u10d8\u10d7\u10d8 (Q6581072), \u10d8\u10dc\u10e2\u10d4\u10e0\u10e1\u10d4\u10e5\u10e1\u10e3\u10d0\u10da\u10e3\u10e0\u10d8 (Q1097630), \u10db\u10d3\u10d4\u10d3\u10e0\u10dd\u10d1\u10d8\u10d7\u10d8 \u10e2\u10e0\u10d0\u10dc\u10e1\u10d2\u10d4\u10dc\u10d3\u10d4\u10e0\u10d8 (Q1052281),  \u10db\u10d0\u10db\u10e0\u10dd\u10d1\u10d8\u10d7\u10d8 \u10e2\u10e0\u10d0\u10dc\u10e1\u10d2\u10d4\u10dc\u10d3\u10d4\u10e0\u10d8 (Q2449503). \u10ea\u10ee\u10dd\u10d5\u10d4\u10da\u10d4\u10d1\u10d8: \u10db\u10d0\u10db\u10e0\u10d8 (Q44148), \u10db\u10d3\u10d4\u10d3\u10e0\u10d8 (Q43445)."
+        },
+        "sr-el": {
+          "language": "sr-el",
+          "value": "za ljude, trebalo bi da bude bilo mu\u0161ki (Q6581097), \u017eenski (Q6581072), me\u0111useksualni (Q1097630), ili posebna \u201enepoznata\u201c vrednost"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "masculino (Q6581097), feminino (Q6581072), intersexual (Q1097630), mulher transexual (Q1052281), homem transexual (Q2449503) ou genderqueer (Q48270); para animais, usar: macho (Q44148) or f\u00eamea (Q43445). Inclua qualificadores conforme a necessidade"
+        },
+        "be-tarask": {
+          "language": "be-tarask",
+          "value": "\u0434\u043b\u044f \u043b\u044e\u0434\u0437\u0435\u0439 \u043c\u0443\u0441\u0456\u0446\u044c \u0431\u044b\u0446\u044c \u043c\u0443\u0436\u0447\u044b\u043d\u0430 (Q6581097), \u0436\u0430\u043d\u0447\u044b\u043d\u0430 (Q6581072), \u0430\u0431\u043e \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u044d\u0440 (Q1097630); \u0434\u043b\u044f \u0430\u0441\u0442\u0430\u0442\u043d\u0456\u0445: \u0441\u0430\u043c\u0435\u0446 (Q44148), \u0441\u0430\u043c\u0456\u0446\u0430 (Q43445)"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "f\u00f6r m\u00e4nniskor: man (Q6581097), kvinna (Q6581072), eller intersexuell (Q1097630)"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "masculino (Q6581097), feminino (Q6581072), intersexual (Q1097630), mulher transexual (Q1052281), homem transexual (Q2449503) ou genderqueer (Q48270); para animais, usar: macho (Q44148) or f\u00eamea (Q43445). Inclua qualificadores conforme a necessidade"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u043e\u0434\u043d\u0438\u043c \u0438\u0437: \u043c\u0443\u0436\u0441\u043a\u043e\u0439 (Q6581097), \u0436\u0435\u043d\u0441\u043a\u0438\u0439 (Q6581072), \u0438\u043d\u0442\u0435\u0440\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c (Q1097630) (\u043f\u043e\u043b\u043d\u044b\u0439 \u0441\u043f\u0438\u0441\u043e\u043a \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u044f)"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "male (Q6581097), female (Q6581072), intersex (Q1097630), transgender female (Q1052281), transgender male (Q2449503), genderqueer (Q48270); for animals use male animal (Q44148) or female animal (Q43445). Add qualifiers as appropriate."
+        },
+        "sr-ec": {
+          "language": "sr-ec",
+          "value": "\u0437\u0430 \u0459\u0443\u0434\u0435, \u0442\u0440\u0435\u0431\u0430\u043b\u043e \u0431\u0438 \u0434\u0430 \u0431\u0443\u0434\u0435 \u0431\u0438\u043b\u043e \u043c\u0443\u0448\u043a\u0438 (Q6581097), \u0436\u0435\u043d\u0441\u043a\u0438 (Q6581072), \u043c\u0435\u0452\u0443\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u043d\u0438 (Q1097630), \u0438\u043b\u0438 \u043f\u043e\u0441\u0435\u0431\u043d\u0430 \u201e\u043d\u0435\u043f\u043e\u0437\u043d\u0430\u0442\u0430\u201c \u0432\u0440\u0435\u0434\u043d\u043e\u0441\u0442"
+        },
+        "br": {
+          "language": "br",
+          "value": "paotr (Q6581097), plac'h (Q6581072), etrerev (Q1097630), treuzjener benel (Q1052281), treuzjener gourel (Q2449503), dianav (Q48270); evit al loened ober gant par (Q44148) pe barez (Q43445). Ouzhpenna\u00f1 resisadurio\u00f9 diouzh ezhomm."
+        },
+        "cy": {
+          "language": "cy",
+          "value": "Noder gwryw Q6581097 neu fenyw Q6581072; am berson trawshywedd, defnyddier: Q2449503; am ryw planhigion, defnyddier (Q43445) ac anifeiliaid, defnyddier: gwr: (Q44148), ben: (Q43445) ."
+        },
+        "ca": {
+          "language": "ca",
+          "value": "Identitat sexual d'un subjecte: home (Q6581097), dona (Q6581072), intersexual (Q1097630), dona transg\u00e8nere (Q1052281), home transg\u00e8nere (Q2449503). Per a animals: mascle (Q44148), femella (Q43445). Per a rups del mateix g\u00e8nere, \"subclasse de\" (P279)"
+        },
+        "en-ca": {
+          "language": "en-ca",
+          "value": "for humans, should be one of  male (Q6581097), female (Q6581072) or intersex (Q1097630); for other species: male (Q44148) or female (Q43445)"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "ihmisille: mies (Q6581097), nainen (Q6581072) tai interseksuaalinen (Q1097630); muille lajeille: koiras (Q44148) tai naaras (Q43445)"
+        },
+        "ksh": {
+          "language": "ksh",
+          "value": "D\u00e4m Minsch singem Liiv sing U\u00dfschtattong. Doht nor Mann/Jong (Q6581097), Frau/M\u00e4hdsche (Q6581072), engers\u00e4xo\u00e4ll (Q1097630) udder \"onbikannt\" n\u00e4mme."
+        },
+        "fr": {
+          "language": "fr",
+          "value": "pour les humains, soit masculin (Q6581097), f\u00e9minin (Q6581072), intersexu\u00e9 (Q1097630), femme transgenre (Q1052281), homme transgenre (Q2449503), genderqueer (Q48270) ; pour les animaux, m\u00e2le (Q44148) ou femelle (Q43445)"
+        }
+      },
+      "title": "Property:P21",
+      "type": "property",
+      "aliases": {
+        "ba": [
+          {
+            "language": "ba",
+            "value": "\u0437\u0430\u0442"
+          }
+        ],
+        "es": [
+          {
+            "language": "es",
+            "value": "identidad de g\u00e9nero"
+          },
+          {
+            "language": "es",
+            "value": "g\u00e9nero"
+          },
+          {
+            "language": "es",
+            "value": "genero"
+          },
+          {
+            "language": "es",
+            "value": "sexo"
+          }
+        ],
+        "fa": [
+          {
+            "language": "fa",
+            "value": "\u062c\u0646\u0633"
+          },
+          {
+            "language": "fa",
+            "value": "\u0645\u0630\u06a9\u0631"
+          }
+        ],
+        "nl": [
+          {
+            "language": "nl",
+            "value": "geslacht"
+          },
+          {
+            "language": "nl",
+            "value": "gender"
+          }
+        ],
+        "zh": [
+          {
+            "language": "zh",
+            "value": "\u6027"
+          },
+          {
+            "language": "zh",
+            "value": "\u6027\u522b"
+          }
+        ],
+        "it": [
+          {
+            "language": "it",
+            "value": "genere"
+          }
+        ],
+        "ko": [
+          {
+            "language": "ko",
+            "value": "\uc820\ub354"
+          }
+        ],
+        "ka": [
+          {
+            "language": "ka",
+            "value": "\u10d2\u10d4\u10dc\u10d3\u10d4\u10e0\u10e3\u10da\u10d8 \u10d8\u10d3\u10d4\u10dc\u10e2\u10dd\u10d1\u10d0"
+          },
+          {
+            "language": "ka",
+            "value": "\u10d1\u10d8\u10dd\u10da\u10dd\u10d2\u10d8\u10e3\u10e0\u10d8 \u10e1\u10e5\u10d4\u10e1\u10d8"
+          }
+        ],
+        "ast": [
+          {
+            "language": "ast",
+            "value": "x\u00e9neru"
+          },
+          {
+            "language": "ast",
+            "value": "identid\u00e1 sexual"
+          },
+          {
+            "language": "ast",
+            "value": "home"
+          },
+          {
+            "language": "ast",
+            "value": "muyer"
+          },
+          {
+            "language": "ast",
+            "value": "transexual"
+          }
+        ],
+        "gu": [
+          {
+            "language": "gu",
+            "value": "\u0a9c\u0abe\u0aa4\u0abf"
+          }
+        ],
+        "lt": [
+          {
+            "language": "lt",
+            "value": "vyras"
+          },
+          {
+            "language": "lt",
+            "value": "moteris"
+          }
+        ],
+        "vi": [
+          {
+            "language": "vi",
+            "value": "\u0111\u1ecbnh danh gi\u1edbi t\u00ednh"
+          }
+        ],
+        "ar": [
+          {
+            "language": "ar",
+            "value": "\u0646\u0648\u0639"
+          }
+        ],
+        "is": [
+          {
+            "language": "is",
+            "value": "Kynvitund vi\u00f0fangs"
+          },
+          {
+            "language": "is",
+            "value": "Kyngervi vi\u00f0fangs"
+          }
+        ],
+        "he": [
+          {
+            "language": "he",
+            "value": "he"
+          },
+          {
+            "language": "he",
+            "value": "\u05de\u05d2\u05d3\u05e8"
+          }
+        ],
+        "zh-hans": [
+          {
+            "language": "zh-hans",
+            "value": "\u6027\u8eab\u4efd"
+          },
+          {
+            "language": "zh-hans",
+            "value": "\u7537\u5973"
+          },
+          {
+            "language": "zh-hans",
+            "value": "\u662f\u7537\u662f\u5973"
+          }
+        ],
+        "or": [
+          {
+            "language": "or",
+            "value": "\u0b32\u0b3f\u0b19\u0b4d\u0b17\u0b17\u0b24 \u0b2a\u0b30\u0b3f\u0b1a\u0b5f"
+          },
+          {
+            "language": "or",
+            "value": "\u0b2a\u0b41\u0b30\u0b41\u0b37"
+          },
+          {
+            "language": "or",
+            "value": "\u0b2e\u0b39\u0b3f\u0b33\u0b3e"
+          },
+          {
+            "language": "or",
+            "value": "\u0b2a\u0b41\u0b05"
+          },
+          {
+            "language": "or",
+            "value": "\u0b1d\u0b3f\u0b05"
+          },
+          {
+            "language": "or",
+            "value": "\u0b2e\u0b1d\u0b3f\u0b32\u0b3f\u0b19\u0b4d\u0b17\u0b40"
+          },
+          {
+            "language": "or",
+            "value": "\u0b2e\u0b27\u0b4d\u0b5f\u0b32\u0b3f\u0b19\u0b4d\u0b17\u0b40"
+          }
+        ],
+        "ta": [
+          {
+            "language": "ta",
+            "value": "\u0baa\u0bbe\u0bb2\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd"
+          },
+          {
+            "language": "ta",
+            "value": "\u0baa\u0bbe\u0bb2\u0bcd"
+          },
+          {
+            "language": "ta",
+            "value": "\u0b86\u0b9f\u0bb5\u0bb0\u0bcd"
+          },
+          {
+            "language": "ta",
+            "value": "\u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd"
+          },
+          {
+            "language": "ta",
+            "value": "\u0b86\u0ba3\u0bcd"
+          },
+          {
+            "language": "ta",
+            "value": "\u0baa\u0bc6\u0ba3\u0bcd"
+          },
+          {
+            "language": "ta",
+            "value": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0b99\u0bcd\u0b95\u0bc8"
+          }
+        ],
+        "be-tarask": [
+          {
+            "language": "be-tarask",
+            "value": "\u041f\u043e\u043b"
+          },
+          {
+            "language": "be-tarask",
+            "value": "\u041f\u043b\u043e\u0446\u044c"
+          },
+          {
+            "language": "be-tarask",
+            "value": "\u043f\u043e\u043b"
+          },
+          {
+            "language": "be-tarask",
+            "value": "\u0421\u0442\u0430\u0446\u044c"
+          },
+          {
+            "language": "be-tarask",
+            "value": "\u043f\u043b\u043e\u0446\u044c"
+          }
+        ],
+        "an": [
+          {
+            "language": "an",
+            "value": "chenero"
+          }
+        ],
+        "pt": [
+          {
+            "language": "pt",
+            "value": "g\u00e9nero"
+          },
+          {
+            "language": "pt",
+            "value": "sexo"
+          }
+        ],
+        "en-gb": [
+          {
+            "language": "en-gb",
+            "value": "gender"
+          }
+        ],
+        "tokipona": [
+          {
+            "language": "tokipona",
+            "value": "mije anu meli"
+          }
+        ],
+        "eu": [
+          {
+            "language": "eu",
+            "value": "generoa"
+          },
+          {
+            "language": "eu",
+            "value": "sexua"
+          },
+          {
+            "language": "eu",
+            "value": "genero identitatea"
+          }
+        ],
+        "cs": [
+          {
+            "language": "cs",
+            "value": "gender"
+          }
+        ],
+        "hu": [
+          {
+            "language": "hu",
+            "value": "nemi azonoss\u00e1g"
+          },
+          {
+            "language": "hu",
+            "value": "nemi identit\u00e1s"
+          },
+          {
+            "language": "hu",
+            "value": "szexu\u00e1lis identit\u00e1s"
+          },
+          {
+            "language": "hu",
+            "value": "szexu\u00e1lis azonoss\u00e1g"
+          }
+        ],
+        "en": [
+          {
+            "language": "en",
+            "value": "gender identity"
+          },
+          {
+            "language": "en",
+            "value": "gender expression"
+          },
+          {
+            "language": "en",
+            "value": "gender"
+          },
+          {
+            "language": "en",
+            "value": "biological sex"
+          },
+          {
+            "language": "en",
+            "value": "man"
+          },
+          {
+            "language": "en",
+            "value": "woman"
+          },
+          {
+            "language": "en",
+            "value": "male"
+          },
+          {
+            "language": "en",
+            "value": "female"
+          },
+          {
+            "language": "en",
+            "value": "intersex"
+          },
+          {
+            "language": "en",
+            "value": "sex"
+          }
+        ],
+        "ca": [
+          {
+            "language": "ca",
+            "value": "identitat sexual"
+          },
+          {
+            "language": "ca",
+            "value": "g\u00e8nere"
+          }
+        ],
+        "en-ca": [
+          {
+            "language": "en-ca",
+            "value": "gender"
+          }
+        ],
+        "af": [
+          {
+            "language": "af",
+            "value": "seks"
+          }
+        ],
+        "ga": [
+          {
+            "language": "ga",
+            "value": "inscne"
+          },
+          {
+            "language": "ga",
+            "value": "gn\u00e9is"
+          }
+        ],
+        "fr": [
+          {
+            "language": "fr",
+            "value": "genre"
+          },
+          {
+            "language": "fr",
+            "value": "sexe"
+          }
+        ]
+      },
+      "datatype": "wikibase-item"
+    }
+  }
+}
