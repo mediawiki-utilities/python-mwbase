@@ -6,7 +6,8 @@ from .attr_dict import AttrDict
 
 class DataValue(AttrDict):
 
-    def from_json(self, datavalue_doc):
+    @classmethod
+    def from_json(cls, datavalue_doc):
         return normalize(datavalue_doc)
 
 
@@ -27,31 +28,36 @@ def normalize(datavalue_doc):
 
 class Time(DataValue):
 
-    def from_json(self, datavalue_doc):
+    @classmethod
+    def from_json(cls, datavalue_doc):
         return normalize_time(datavalue_doc)
 
 
 class EntityId(DataValue):
 
-    def from_json(self, datavalue_doc):
+    @classmethod
+    def from_json(cls, datavalue_doc):
         return normalize_entityid(datavalue_doc)
 
 
 class Coordinate(DataValue):
 
-    def from_json(self, datavalue_doc):
+    @classmethod
+    def from_json(cls, datavalue_doc):
         return normalize_coordinate(datavalue_doc)
 
 
 class Quantity(DataValue):
 
-    def from_json(self, datavalue_doc):
+    @classmethod
+    def from_json(cls, datavalue_doc):
         return normalize_quantity(datavalue_doc)
 
 
 class String(DataValue):
 
-    def from_json(self, datavalue_doc):
+    @classmethod
+    def from_json(cls, datavalue_doc):
         return normalize_string(datavalue_doc)
 
 

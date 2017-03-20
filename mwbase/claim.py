@@ -4,7 +4,8 @@ from .attr_dict import AttrDict
 
 class Claim(AttrDict):
 
-    def from_json(self, claim_doc):
+    @classmethod
+    def from_json(cls, claim_doc):
         return normalize(claim_doc)
 
 

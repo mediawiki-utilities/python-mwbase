@@ -4,7 +4,8 @@ from .attr_dict import AttrDict
 
 class Reference(AttrDict):
 
-    def from_json(self, reference_doc):
+    @classmethod
+    def from_json(cls, reference_doc):
         return normalize(reference_doc)
 
 

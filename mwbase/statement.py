@@ -1,12 +1,11 @@
-from decimal import Decimal
-
 from . import datavalue
 from .attr_dict import AttrDict
 
 
 class Statement(AttrDict):
 
-    def from_json(self, datavalue_doc):
+    @classmethod
+    def from_json(cls, datavalue_doc):
         return normalize(datavalue_doc)
 
 

@@ -4,7 +4,8 @@ from .attr_dict import AttrDict
 
 class Entity(AttrDict):
 
-    def from_json(self, entity_doc):
+    @classmethod
+    def from_json(cls, entity_doc):
         return normalize(entity_doc)
 
 
