@@ -102,14 +102,19 @@ def normalize_coordinate(datavalue_doc):
 
 
 def normalize_quantity(datavalue_doc):
+    if 'upperBound' in datavalue_doc['value']:
+        error = {
+            'upper': Decimal(str(datavalue_doc['value']['upperBound'])),
+            'lower': Decimal(str(datavalue_doc['value']['lowerBound']))
+        }
+    else:
+        error = None
+
     return Quantity({
         'type': datavalue_doc['type'],
         'value': Decimal(str(datavalue_doc['value']['amount'])),
         'unit': datavalue_doc['value']['unit'],
-        'error': {
-            'upper': Decimal(str(datavalue_doc['value']['upperBound'])),
-            'lower': Decimal(str(datavalue_doc['value']['lowerBound']))
-        }
+        'error': error
     })
 
 
