@@ -171,3 +171,22 @@ def test_normalize():
          for dbname, sitelink in Q18627581.sitelinks.items()
          if len(sitelink['badges']) > 0},
         set())
+
+    wb_doc = util.load_blob('Q461419')
+    Q461419 = entity.normalize(wb_doc)
+
+    eq_({lang for lang in Q461419.labels},
+        {'hu'})
+    eq_({label for label in Q461419.labels.values()},
+        {'A Shaolin leszámolás helyszínei'})
+
+    eq_({lang for lang in Q461419.descriptions},
+        set())
+
+    eq_({lang for lang in Q461419.aliases},
+        set())
+
+    eq_({dbname
+         for dbname, sitelink in Q461419.sitelinks.items()
+         if len(sitelink['badges']) > 0},
+        set())

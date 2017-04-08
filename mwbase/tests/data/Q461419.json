@@ -1,0 +1,30 @@
+{
+  "entities": {
+    "Q461419": {
+      "claims": [],
+      "sitelinks": {
+        "huwiki": {
+          "url": "https://hu.wikipedia.org/wiki/A_Saolin_lesz%C3%A1mol%C3%A1s_helysz%C3%ADnei",
+          "site": "huwiki",
+          "badges": [],
+          "title": "A Saolin lesz\u00e1mol\u00e1s helysz\u00ednei"
+        }
+      },
+      "descriptions": [],
+      "modified": "2015-04-26T17:23:57Z",
+      "id": "Q461419",
+      "aliases": [],
+      "title": "Q461419",
+      "ns": 0,
+      "labels": {
+        "hu": {
+          "value": "A Shaolin lesz\u00e1mol\u00e1s helysz\u00ednei",
+          "language": "hu"
+        }
+      },
+      "pageid": 435229,
+      "type": "item",
+      "lastrevid": 213053484
+    }
+  }
+}
