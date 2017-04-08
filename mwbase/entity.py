@@ -15,7 +15,7 @@ def normalize(entity_doc):
         'title': entity_doc.get('title'),
         'labels': {
             lang: val['value']
-            for lang, val in entity_doc.get('labels', {}).items()
+            for lang, val in (entity_doc.get('labels', {}) or {}).items()
             if 'removed' not in val},
         'descriptions': {
             lang: val['value']
@@ -29,5 +29,5 @@ def normalize(entity_doc):
             for pid, claim_docs in (entity_doc.get('claims', {}) or {}).items()},
         'sitelinks': {
             dbname: {'title': val['title'], 'badges': val.get('badges', [])}
-            for dbname, val in entity_doc.get('sitelinks', {}).items()}
+            for dbname, val in (entity_doc.get('sitelinks', {}) or {}).items()}
     })

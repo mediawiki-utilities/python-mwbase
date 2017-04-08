@@ -554,13 +554,13 @@
             ],
             "id": "Q18627581$36005624-4c6b-d026-f8e2-1cd933a9c49f",
             "mainsnak": {
+              "hash": "c14601921cd0992aca86bb28c721f1f70ffa6801",
               "datavalue": {
-                "type": "string",
-                "value": "Aaron Halfaker.voice recording.oga"
+                "value": "Aaron Halfaker.voice recording.oga",
+                "type": "string"
               },
-              "datatype": "commonsMedia",
-              "snaktype": "value",
-              "property": "P990"
+              "property": "P990",
+              "snaktype": "value"
             }
           }
         ]

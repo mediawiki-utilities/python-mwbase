@@ -158,6 +158,8 @@ def test_normalize():
          'hr', 'oc', 'nds', 'wa', 'nap', 'af'})
     eq_({label for label in Q18627581.labels.values()},
         {'Aaron Halfaker'})
+    eq_(Q18627581.claims['P990'][0]['statement']['hash'],
+        "c14601921cd0992aca86bb28c721f1f70ffa6801")
 
     eq_({lang for lang in Q18627581.descriptions},
         {'en-gb', 'nl', 'en'})

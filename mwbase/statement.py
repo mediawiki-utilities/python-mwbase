@@ -13,6 +13,7 @@ def normalize(statement_doc):
     return Statement({
         'property': statement_doc['property'],
         'snaktype': statement_doc['snaktype'],
-        'datatype': statement_doc['datatype'],
-        'datavalue': datavalue.normalize(statement_doc['datavalue'])
+        'datavalue': datavalue.normalize(statement_doc['datavalue']),
+        'datatype': statement_doc.get('datatype'),
+        'hash': statement_doc.get('hash')
     })
