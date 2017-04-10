@@ -12,6 +12,9 @@ class DataValue(AttrDict):
 
 
 def normalize(datavalue_doc):
+    if datavalue_doc is None:
+        return None
+
     datavalue_doc = util.ensure_decoded_json(datavalue_doc)
 
     if datavalue_doc['type'] == 'wikibase-entityid':

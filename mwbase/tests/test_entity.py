@@ -192,3 +192,8 @@ def test_normalize():
          for dbname, sitelink in Q461419.sitelinks.items()
          if len(sitelink['badges']) > 0},
         set())
+
+    wb_doc = util.load_blob('Q1625')
+    Q1625 = entity.normalize(wb_doc)
+
+    eq_(Q1625.claims['P39'][1].qualifiers['P1365'][0].datavalue, None)
