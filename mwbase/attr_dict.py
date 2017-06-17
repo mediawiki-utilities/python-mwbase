@@ -1,4 +1,7 @@
-class AttrDict(dict):
+from collections import OrderedDict
+
+
+class AttrDict(OrderedDict):
     def __init__(self, *args, **kwargs):
         super(AttrDict, self).__init__(*args, **kwargs)
 

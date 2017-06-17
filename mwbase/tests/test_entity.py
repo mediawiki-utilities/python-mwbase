@@ -158,7 +158,7 @@ def test_normalize():
          'hr', 'oc', 'nds', 'wa', 'nap', 'af'})
     eq_({label for label in Q18627581.labels.values()},
         {'Aaron Halfaker'})
-    eq_(Q18627581.claims['P990'][0]['statement']['hash'],
+    eq_(Q18627581.properties['P990'][0].claim['hash'],
         "c14601921cd0992aca86bb28c721f1f70ffa6801")
 
     eq_({lang for lang in Q18627581.descriptions},
@@ -196,4 +196,4 @@ def test_normalize():
     wb_doc = util.load_blob('Q1625')
     Q1625 = entity.normalize(wb_doc)
 
-    eq_(Q1625.claims['P39'][1].qualifiers['P1365'][0].datavalue, None)
+    eq_(Q1625.properties['P39'][1].qualifiers['P1365'][0].datavalue, None)
