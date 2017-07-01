@@ -7,5 +7,5 @@ wb_doc = requests.get(
 entity = mwbase.Entity.from_json(wb_doc['entities']['Q42'])
 
 entity.labels['en']
-entity.claims.keys()
+entity.properties.keys()
 entity.sitelinks.keys()
