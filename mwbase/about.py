@@ -1,5 +1,5 @@
 __name__ = "mwbase"
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = "Aaron Halfaker"
 __author_email__ = "aaron.halfaker@gmail.com"
 __description__ = "Data structure normalization for MediaWiki's Wikibase"
