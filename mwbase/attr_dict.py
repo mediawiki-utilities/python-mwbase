@@ -1,15 +1,14 @@
-from collections import OrderedDict
 
+class AttrDict(dict):
 
-class AttrDict(OrderedDict):
-    def __init__(self, *args, **kwargs):
-        super(OrderedDict, self).__init__(*args, **kwargs)
-
-    def __getattribute__(self, attr):
-        if attr in self:
-            return self[attr]
+    def __getattr__(self, attr):
+        if super().__contains__(attr):
+            return super().__getitem__(attr)
         else:
-            return super(OrderedDict, self).__getattribute__(attr)
+            raise AttributeError(attr)
 
     def __setattr__(self, attr, value):
-        self[attr] = value
+        if hasattr(self, attr):
+            super().__setattr__(attr, value)
+        else:
+            super().__setitem__(attr, value)
