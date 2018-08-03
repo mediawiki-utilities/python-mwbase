@@ -8,6 +8,8 @@ def test_normalize():
 
     assert(Q7251.properties['P268'][0].claim.datavalue['value'] ==
            "12205670t")
+    assert(str(Q7251.properties['P268'][0].claim.datavalue) ==
+           "'12205670t'")
 
     assert({pid for pid, statements in Q7251.properties.items()
             if len(statements) > 1} ==
@@ -16,9 +18,12 @@ def test_normalize():
 
     assert(Q7251.properties['P21'][0].claim.datavalue['id'] ==
            "Q6581097")
+    assert(str(Q7251.properties['P21'][0].claim.datavalue) ==
+           "Q6581097")
 
     assert({(pid, ref_claims[0]['datavalue']['type'])
-            for pid, ref_claims in Q7251.properties['P21'][0].references.items()} ==
+            for pid, ref_claims in
+            Q7251.properties['P21'][0].references.items()} ==
            {('P143', 'wikibase-entityid'),
             ('P813', 'time'),
             ('P248', 'wikibase-entityid')})
@@ -33,6 +38,8 @@ def test_normalize():
     Q1700481 = entity.normalize(wb_doc)
 
     assert(Q1700481.properties['P571'][0].claim.datavalue['timestamp'] ==
+           '+1883-01-01T00:00:00Z')
+    assert(str(Q1700481.properties['P571'][0].claim.datavalue) ==
            '+1883-01-01T00:00:00Z')
 
     wb_doc = util.load_blob('Q18627581')

@@ -35,12 +35,18 @@ class Time(DataValue):
     def from_json(cls, datavalue_doc):
         return normalize_time(datavalue_doc)
 
+    def __str__(self):
+        return str(self.timestamp)
+
 
 class EntityId(DataValue):
 
     @classmethod
     def from_json(cls, datavalue_doc):
         return normalize_entityid(datavalue_doc)
+
+    def __str__(self):
+        return str(self.id)
 
 
 class Coordinate(DataValue):
@@ -49,6 +55,12 @@ class Coordinate(DataValue):
     def from_json(cls, datavalue_doc):
         return normalize_coordinate(datavalue_doc)
 
+    def __str__(self):
+        return " ".join([str(self.latitude), "x",
+                         str(self.longitude), "x",
+                         str(self.altitude), "@",
+                         str(self.globe)])
+
 
 class Quantity(DataValue):
 
@@ -56,12 +68,28 @@ class Quantity(DataValue):
     def from_json(cls, datavalue_doc):
         return normalize_quantity(datavalue_doc)
 
+    def __str__(self):
+        if self.range is not None:
+            return " ".join(
+                [str(self.value),
+                 "({0}-{1})".format(self.range.upper, self.range.lower),
+                 str(self.unit)])
+        else:
+            return " ".join([str(self.value), str(self.unit)])
+
+
+class Range(AttrDict):
+    pass
+
 
 class String(DataValue):
 
     @classmethod
     def from_json(cls, datavalue_doc):
         return normalize_string(datavalue_doc)
+
+    def __str__(self):
+        return repr(self.value)
 
 
 def normalize_time(datavalue_doc):
@@ -106,18 +134,18 @@ def normalize_coordinate(datavalue_doc):
 
 def normalize_quantity(datavalue_doc):
     if 'upperBound' in datavalue_doc['value']:
-        error = {
+        range = Range({
             'upper': Decimal(str(datavalue_doc['value']['upperBound'])),
             'lower': Decimal(str(datavalue_doc['value']['lowerBound']))
-        }
+        })
     else:
-        error = None
+        range = None
 
     return Quantity({
         'type': datavalue_doc['type'],
         'value': Decimal(str(datavalue_doc['value']['amount'])),
         'unit': datavalue_doc['value']['unit'],
-        'error': error
+        'range': range
     })
 
 
