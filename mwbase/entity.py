@@ -1,4 +1,4 @@
-from . import statement, util
+from . import sitelink, statement, util
 from .attr_dict import AttrDict
 
 
@@ -19,15 +19,18 @@ def normalize(entity_doc):
             if 'removed' not in val}),
         ('descriptions', {
             lang: val['value']
-            for lang, val in (entity_doc.get('descriptions', {}) or {}).items()}),
+            for lang, val
+            in (entity_doc.get('descriptions', {}) or {}).items()}),
         ('aliases', {
             lang: [alias_doc['value'] for alias_doc in aliases]
             for lang, aliases in (entity_doc.get('aliases') or {}).items()}),
         ('properties', {
             pid: [statement.normalize(claim_doc)
                   for claim_doc in claim_docs]
-            for pid, claim_docs in (entity_doc.get('claims', {}) or {}).items()}),
+            for pid, claim_docs
+            in (entity_doc.get('claims', {}) or {}).items()}),
         ('sitelinks', {
-            dbname: {'title': val['title'], 'badges': val.get('badges', [])}
-            for dbname, val in (entity_doc.get('sitelinks', {}) or {}).items()})
+            dbname: sitelink.normalize(sitelink_doc)
+            for dbname, sitelink_doc
+            in (entity_doc.get('sitelinks', {}) or {}).items()})
     ])
