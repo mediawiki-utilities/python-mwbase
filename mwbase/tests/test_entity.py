@@ -257,3 +257,8 @@ def test_normalize():
     Q1625 = entity.normalize(wb_doc)
 
     assert(Q1625.properties['P39'][1].qualifiers['P1365'][0].datavalue is None)
+
+
+def test_unusual_entities():
+    wb_doc = util.load_blob('Q140')
+    entity.normalize(wb_doc)
