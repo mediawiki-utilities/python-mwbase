@@ -116,7 +116,7 @@ def normalize_entityid(datavalue_doc):
     return EntityId({
         'type': datavalue_doc['type'],
         'entity-type': datavalue_doc['value']['entity-type'],
-        'numeric-id': datavalue_doc['value']['numeric-id'],
+        'numeric-id': datavalue_doc['value'].get('numeric-id'),
         'id': id_val
     })
 
